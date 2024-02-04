@@ -3,10 +3,10 @@ Découverte GitHub
 
 https://www.ionos.fr/digitalguide/sites-internet/developpement-web/markdown/
 
->  *Texte en Italique*
->  **Texte en Gras**
->  ***Texte en Italique et aussi en Gras***
->  __Texte en Italique et en Gras__ (deux underscore successifs)
+-  *Texte en Italique*
+-  **Texte en Gras**
+-  ***Texte en Italique et aussi en Gras***
+-  __Texte en Italique et en Gras__ (deux underscore successifs)
 ~~Ce Texte est Barré~~ 
 # Titre 1
 ## Titre 2
